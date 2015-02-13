@@ -1,0 +1,16 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '7.0'
+
+pod 'MagicalRecord'
+pod 'Reachability'
+pod 'AFNetworking'
+pod 'TRVSMonitor'
+pod 'UIKitCategoryAdditions'
+pod 'SDWebImage'
+pod 'MBProgressHUD', '~> 0.8'
+pod 'GoogleAnalytics-iOS-SDK'
+pod 'FlurrySDK', '< 5.1.0'
+pod 'SocketRocket'
+pod 'iOS-Slide-Menu'
+pod 'FastEasyMapping'
