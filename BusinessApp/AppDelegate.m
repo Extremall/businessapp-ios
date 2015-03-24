@@ -7,6 +7,10 @@
 //
 
 #import "AppDelegate.h"
+#import "RequestManager.h"
+#import "BAItem.h"
+#import "YKSettings.h"
+#import <YMKConfiguration.h>
 
 @interface AppDelegate ()
 
@@ -17,6 +21,11 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    [[RequestManager sharedInstance] setup];
+    
+    [YMKConfiguration sharedInstance].apiKey = [YKSettings sharedSettings].apiKey;
+    
     return YES;
 }
 

@@ -1,0 +1,3 @@
+{
+"photos": [{"id" : "1", "url" : "http://icdn.lenta.ru/images/2015/03/18/13/20150318135959301/top7_36fd157de5745812b5770ce6d50c1a3b.jpg", "desc": "60 лет Брюсу!"}, {"id" : "2", "url" : "http://icdn.lenta.ru/images/2015/03/18/13/20150318135959301/top7_36fd157de5745812b5770ce6d50c1a3b.jpg", "desc": "60 лет Брюсу!"}, {"id" : "3", "url" : "http://icdn.lenta.ru/images/2015/03/18/13/20150318135959301/top7_36fd157de5745812b5770ce6d50c1a3b.jpg", "desc": "60 лет Брюсу!"}, {"id" : "4", "url" : "http://icdn.lenta.ru/images/2015/03/18/13/20150318135959301/top7_36fd157de5745812b5770ce6d50c1a3b.jpg", "desc": "60 лет Брюсу!"}]
+}

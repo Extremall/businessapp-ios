@@ -1,0 +1,3 @@
+{
+"announce": {"id" : "1", "title" : "Пришла зима!", "image": "http://www.povarenok.ru/data/cache/2013jan/24/10/68528_85927-150x150x.jpg", "type" : "1", "content" : "<h1>Всем в шапках ушанках бесплатно леща</h1>"}
+}
